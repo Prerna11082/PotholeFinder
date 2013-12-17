@@ -25,7 +25,7 @@ public class UploadActivity extends Activity implements OnClickListener {
 	
 	public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.page_upload);
+        setContentView(R.layout.upload_page);
        
         // Add your initialization code here
 		Parse.initialize(this, "uFwoSCU42NKWz1hxvQHqPjrCxxJdkXcREOYsAEyu", "KjJIMTP5UY32FVo6yTw1ONk9Icl40DO7fSIuEPVk");

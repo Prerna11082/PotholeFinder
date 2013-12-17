@@ -44,7 +44,7 @@ public class Image_activity extends Activity implements OnClickListener{
 	 @Override
 	  public void onCreate(Bundle savedInstanceState) {
 	    super.onCreate(savedInstanceState);
-	    setContentView(R.layout.imagepage);
+	    setContentView(R.layout.click_image);
 	    
 	    // Add your initialization code here
 		Parse.initialize(this, "uFwoSCU42NKWz1hxvQHqPjrCxxJdkXcREOYsAEyu", "KjJIMTP5UY32FVo6yTw1ONk9Icl40DO7fSIuEPVk");

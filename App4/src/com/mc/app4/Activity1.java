@@ -13,7 +13,7 @@ public class Activity1 extends Activity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.page1);
+		setContentView(R.layout.homepage);
 		
 		//Button b1, b2;
 		ImageButton b1, b2;

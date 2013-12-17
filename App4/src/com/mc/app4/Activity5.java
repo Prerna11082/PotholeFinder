@@ -15,7 +15,7 @@ public class Activity5 extends Activity {
 	EditText et1;
 	public void onCreate (Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.page5);
+		setContentView(R.layout.comments_page);
 		et1 = (EditText) findViewById (R.id.editText1);
 		
 		note_button = (ImageButton) findViewById (R.id.imageButton1);

@@ -6,7 +6,7 @@ import android.os.Bundle;
 public class thankYou extends Activity {
 	public void onCreate (Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.endpage);
+		setContentView(R.layout.thankyou_page);
 		
 		Thread timer = new Thread() {
 			public void run(){

@@ -16,7 +16,7 @@ public class Activity6 extends Activity {
 	
 	public void onCreate (Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.page6);
+		setContentView(R.layout.rating_page);
 		rate1 = (RatingBar) findViewById(R.id.ratingBar1);
 		rate_button = (ImageButton) findViewById (R.id.imageButton1);
 		
