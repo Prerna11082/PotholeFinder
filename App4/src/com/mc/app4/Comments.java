@@ -8,7 +8,7 @@ import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.Toast;
 
-public class Activity5 extends Activity {
+public class Comments extends Activity {
 	
 	private static String note1;
 	private ImageButton note_button;

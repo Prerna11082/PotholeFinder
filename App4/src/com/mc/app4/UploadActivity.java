@@ -53,7 +53,7 @@ public class UploadActivity extends Activity implements OnClickListener {
 				//String pathName=Activity2.getImagePath();
 				//String imageName=Activity2.getImageName();
 				String line=Getlocation.getCoordinates();
-				String noteret = Activity5.getnotes();
+				String noteret = Comments.getnotes();
 				float rateret = Activity6.getrate();
 				//Bitmap bitmap = BitmapFactory.decodeFile(pathName);
 						//decodeResource(getResources(),
